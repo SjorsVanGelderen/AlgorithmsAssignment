@@ -21,7 +21,7 @@ The first line makes the file executable(sets the correct permissions), the seco
 Follow the on-screen instructions and finish installing.
 
 Clone this repository and open the solution with MonoDevelop.  
-At this point you should be able to build.
+At this point you should be able to build.  
 If you cannot, you may have to add MonoGame(DesktopGL) from NuGet to both projects in the solution.  
 Possibly you will also have to include FSharp through NuGet.
 
