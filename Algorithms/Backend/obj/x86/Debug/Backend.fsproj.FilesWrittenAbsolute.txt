@@ -1,0 +1,8 @@
+/home/sjors/Projects/Job/Algorithms/Backend/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/sjors/Projects/Job/Algorithms/Backend/bin/Debug/Backend.exe.mdb
+/home/sjors/Projects/Job/Algorithms/Backend/bin/Debug/Backend.exe
+/home/sjors/Projects/Job/Algorithms/Backend/obj/x86/Debug/Backend.exe
+/home/sjors/Projects/Job/Algorithms/Backend/obj/x86/Debug/Backend.exe.mdb
+/home/sjors/Projects/Job/Algorithms/Backend/bin/Debug/MonoGame.Framework.dll
+/home/sjors/Projects/Job/Algorithms/Backend/bin/Debug/NVorbis.dll
+/home/sjors/Projects/Job/Algorithms/Backend/bin/Debug/OpenTK.dll

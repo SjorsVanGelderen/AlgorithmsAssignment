@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Backend/Backend.fsproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Frontend/Program.cs">
+    <Files>
+      <File FileName="Backend/Perlin.fs" Line="3" Column="18" />
+      <File FileName="Frontend/Program.cs" Line="14" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
