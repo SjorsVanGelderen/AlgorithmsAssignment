@@ -1,2 +1,31 @@
-# AlgorithmsAssignment
-Port of the algorithms assignment for Linux and MacOS
+# Algorithms assignment port for GNU/Linux+MacOS
+For sake of convenience the port focuses on MonoDevelop / Xamarin.  
+So far, I've only been able to test this on Ubuntu 16.10.  
+I will be able to test it on MacOS later when my new system arrives :').  
+
+# Instructions Ubuntu
+To use this, please do the following:
+```
+sudo apt install monodevelop fsharpc ttf-mscorefonts-installer gtk-sharp3 libopenal-dev
+```
+Agree to install the packages when apt asks you to confirm.
+
+Then download MonoGame for Linux from [here](http://www.monogame.net/2016/03/17/monogame-3-5/).  
+Open a terminal in the folder where the file is located and use the following commands:
+```
+sudo chmod +x monogame-sdk.run
+./monogame-sdk.run
+```
+
+The first line makes the file executable(sets the correct permissions), the second executes it.  
+Follow the on-screen instructions and finish installing.
+
+Clone this repository and open the solution with MonoDevelop.  
+At this point you should be able to build.
+If you cannot, you may have to add MonoGame(DesktopGL) from NuGet to both projects in the solution.  
+Possibly you will also have to include FSharp through NuGet.
+
+# Finally
+Let me know how things go. If you have any issues, please report them on GitHub!
+
+Cheers and good luck!
