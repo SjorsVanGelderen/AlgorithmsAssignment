@@ -188,11 +188,11 @@
     override this.Initialize() =
       base.Content.RootDirectory <- "Content"
       this.spriteBatch <- new SpriteBatch(this.GraphicsDevice)
-      this.tileSet <- this.Content.Load "tileset.png"
-      this.roadTileSet <- this.Content.Load "roads.jpg"
-      this.crosshair <- this.Content.Load "crosshair.png"
+      this.tileSet <- this.Content.Load "tileset"
+      this.roadTileSet <- this.Content.Load "roads"
+      this.crosshair <- this.Content.Load "crosshair"
       this.consolas <- this.Content.Load "numberingFont"
-      this.circle <- this.Content.Load "circle.png"
+      this.circle <- this.Content.Load "circle"
 
     override this.Update gt =
       let ks = Keyboard.GetState()
@@ -319,7 +319,4 @@
     let r = random.Next(1, 6)
     if r <= 4 then string r
     else
-      if random.NextDouble() <= 0.1 then
-        "8==D"
-      else
         GetInitialValue()

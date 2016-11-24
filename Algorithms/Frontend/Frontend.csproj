@@ -63,4 +63,10 @@
     <None Include="packages.config" />
     <MonoGameContentReference Include="Content\Content.mgcb" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Backend\Backend.fsproj">
+      <Project>{9884A598-DDAD-4CD4-A239-71D5D1DDB9E2}</Project>
+      <Name>Backend</Name>
+    </ProjectReference>
+  </ItemGroup>
 </Project>

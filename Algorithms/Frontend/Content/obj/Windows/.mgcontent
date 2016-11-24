@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/sjors/Projects/AlgorithmsAssignment/Algorithms/Frontend/Content/numberingFont.spritefont</File>
+    <File>/home/sjors/Projects/AlgorithmsAssignment/Algorithms/Frontend/Content/circle.png</File>
+    <File>/home/sjors/Projects/AlgorithmsAssignment/Algorithms/Frontend/Content/crosshair.png</File>
+    <File>/home/sjors/Projects/AlgorithmsAssignment/Algorithms/Frontend/Content/crosshairs.png</File>
+    <File>/home/sjors/Projects/AlgorithmsAssignment/Algorithms/Frontend/Content/lighting.png</File>
+    <File>/home/sjors/Projects/AlgorithmsAssignment/Algorithms/Frontend/Content/linearGlow.png</File>
+    <File>/home/sjors/Projects/AlgorithmsAssignment/Algorithms/Frontend/Content/roads.jpg</File>
+    <File>/home/sjors/Projects/AlgorithmsAssignment/Algorithms/Frontend/Content/tileset.png</File>
+  </SourceFiles>
+</SourceFileCollection>

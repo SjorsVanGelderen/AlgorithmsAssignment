@@ -1,9 +1,9 @@
-﻿<Properties StartupItem="Backend/Backend.fsproj">
+﻿<Properties StartupItem="Frontend/Frontend.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Frontend/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Backend/Game.fs">
     <Files>
-      <File FileName="Backend/Perlin.fs" Line="3" Column="18" />
-      <File FileName="Frontend/Program.cs" Line="14" Column="37" />
+      <File FileName="Frontend/Program.cs" Line="20" Column="18" />
+      <File FileName="Backend/Game.fs" Line="94" Column="67" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -18,32 +18,33 @@ namespace EntryPoint
 				switch(Console.ReadLine())
 				{
 				    case "1":
-					using (var game = VirtualCity.RunAssignment1(SortSpecialBuildingsByDistance,
-										     fullscreen))
-					    game.Run();
-					break;
+						using (var game = VirtualCity.RunAssignment1(SortSpecialBuildingsByDistance,
+											     fullscreen))
+						    game.Run();
+						break;
 					
 				    case "2":
-					using (var game = VirtualCity.RunAssignment2(FindSpecialBuildingsWithinDistanceFromHouse,
-										     fullscreen))
-					    game.Run();
-					break;
+						using (var game = VirtualCity.RunAssignment2(FindSpecialBuildingsWithinDistanceFromHouse,
+											     fullscreen))
+						    game.Run();
+						break;
 					
 				    case "3":
-					using (var game = VirtualCity.RunAssignment3(FindRoute, fullscreen))
-					    game.Run();
-					break;
+						using (var game = VirtualCity.RunAssignment3(FindRoute, fullscreen))
+						    game.Run();
+						break;
 					
 				    case "4":
-					using (var game = VirtualCity.RunAssignment4(FindRoutesToAll, fullscreen))
-					    game.Run();
-					break;
+						using (var game = VirtualCity.RunAssignment4(FindRoutesToAll, fullscreen))
+						    game.Run();
+						break;
 					
 				    case "q":
-					return;
+						return;
 					
-				    default:
-					Console.WriteLine("Invalid input! Try again! - [1 - 4, q]");
+					default:
+						Console.WriteLine ("Invalid input! Try again! - [1 - 4, q]");
+						break;
 				}
 		    }
 		}
