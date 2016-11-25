@@ -3,7 +3,7 @@ For sake of convenience the port focuses on MonoDevelop / Xamarin.
 So far, I've only been able to test this on Ubuntu 16.10.  
 I will be able to test it on MacOS later when my new system arrives :').  
 
-I've also been informed that a student made a MacOS port that might work for you.
+I've also been informed that a student made a MacOS port that might work for you.  
 The repository for that can be found [here](https://github.com/remcovisser/Dev020201)
 
 # Instructions Ubuntu
