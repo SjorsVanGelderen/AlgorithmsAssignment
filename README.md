@@ -1,5 +1,5 @@
 # Algorithms assignment port for GNU+Linux / MacOS
-For sake of convenience the port focuses on MonoDevelop / Xamarin.  
+For the sake of convenience the port focuses on MonoDevelop / Xamarin.  
 So far, I've only been able to test this on Ubuntu 16.10.  
 I will be able to test it on MacOS later when my new system arrives :').  
 
