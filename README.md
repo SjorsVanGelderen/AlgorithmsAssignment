@@ -3,6 +3,9 @@ For sake of convenience the port focuses on MonoDevelop / Xamarin.
 So far, I've only been able to test this on Ubuntu 16.10.  
 I will be able to test it on MacOS later when my new system arrives :').  
 
+I've also been informed that a student made a MacOS port that might work for you.
+The repository for that can be found [here](https://github.com/remcovisser/Dev020201)
+
 # Instructions Ubuntu
 To use this, please do the following:
 ```
@@ -24,6 +27,9 @@ Clone this repository and open the solution with MonoDevelop.
 At this point you should be able to build.  
 If you cannot, you may have to add MonoGame(DesktopGL) from NuGet to both projects in the solution.  
 Possibly you will also have to include FSharp through NuGet.
+
+# MCGB.exe / nVidia error troubleshooting
+Should you get an error relating to MCGB.exe, try opening the Content.mcgb file in the Content folder and rebuilding the file from within the MonoGame Pipeline Tool.
 
 # Finally
 Let me know how things go. If you have any issues, please report them on GitHub!
