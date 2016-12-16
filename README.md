@@ -1,7 +1,7 @@
 # Algorithms assignment port for GNU+Linux / MacOS
 For the sake of convenience the port focuses on MonoDevelop / Xamarin.  
 So far, I've only been able to test this on Ubuntu 16.10.  
-I will be able to test it on MacOS later when my new system arrives :').  
+Students have kindly reported success with this project on MacOS(version unknown) and Linux Mint 18.
 
 I've also been informed that a student made a MacOS port that might work for you.  
 The repository for that can be found [here](https://github.com/remcovisser/Dev020201).
